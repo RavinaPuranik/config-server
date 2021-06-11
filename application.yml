@@ -7,5 +7,3 @@ eureka:
     fetch-registry: true
     serviceUrl:
       defaultZone: http://eureka-0.eureka.default.svc.cluster.local:8761/eureka
-      instance:
-        hostname: localhost
